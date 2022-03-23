@@ -1,0 +1,206 @@
+body{font-family: Verdana, Geneva, Tahoma, sans-serif;background-image: url(Fondo.png);}
+header,section,footer{width: 960px; margin-left: auto;margin-right: auto; margin-bottom: 10px;}
+header{background-color:rgba(255, 255, 255, 0.5); height: 80px;position: sticky;top: 0px;}
+#Logo{height: 80px;width: 120px; float:left;}
+.Imogen{height: 100%;}
+#control{height: 80px;width: 500px;float: right;}
+#control ul {margin: 0px;padding: 0px;list-style-type: none; font-size: 20px;} 
+#control ul li {display: inline;}
+#control ul li a{display: inline-block; text-decoration: none;padding: 30px 13px; color: #ff0000; font-weight: bold;}
+#control ul li a:hover{background-color:#ff0000 ;color: #ffffff;}
+#Home {background-image: url(Imagen_home3.jpg);background-size: cover; height: 500px;}
+#Principal1{height: 445px;width: 960px;margin-bottom: 5px;}
+#Principal2{height: 50px;width: 960px;}
+.Enlace{text-align: right;color:#ffffff; font-weight: bold;font-size: 15px; margin-top: 30px;}
+#Enlace1{text-decoration: none;color: firebrick;}
+#Empresa{background-image: url(Home.jpg);background-size: cover ;height: 500px;}
+#qs_1{background-Image:url(Empresa.png);background-size: cover; height: 500px;width: 475px;float: left;-moz-box-shadow: 0px 0px 30px #ffffff;
+    -webkit-box-shadow: 0px 0px 30px #ffffff;
+    box-shadow: 0px 0px 30px #ffffff; 
+    padding: 0px;
+    border: 1px solid #000000;
+    width: 475px;
+    margin: 0px;}
+#qs_2{background-Image: url(Pergamino.png);background-size: cover; height: 245px;width: 475px;float: right;margin-bottom: 10px; box-shadow: 4px 5px 8px rgba(0,0,0,0.7), -4px -5px 8px rgba(0, 0, 0, 0.7);}
+.QS2{text-align: center; color: #000; font-weight: bold; font-style: oblique;text-decoration: underline; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: 25px;margin-top: 35px;}
+#qs_3{background-image: url(p.jpg); background-size: cover; height: 245px;width: 475px;float: right;box-shadow: 4px 5px 8px rgba(255,255,255,0.7), -4px -5px 8px rgba(255, 255, 255, 0.7)}
+.QS3{text-align: center; color: #000; font-weight: bold; font-style:oblique;text-decoration: underline; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 25px;margin-top: 0px;}
+.QS_2{margin-left: 30px;text-align: justify;margin-right: 30px;font-size: 12px;color: #000; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;}
+.QS_3{margin-left: 10px;text-align: justify;margin-right: 10px;font-size: 15px;color: #000; font-weight: bold;}
+.PEV{font-weight: bolder;color:#000;}
+#Productos {background-image:url(Home.jpg); background-size: cover; height: 600px;}
+#P_1{color: #ff0000; font-size: 40px; font-weight: bold; text-align: center; text-decoration: underline; background-color:rgba(255, 255, 255, 0.5);-moz-box-shadow: 0px 0px 30px #ffffff;
+    -webkit-box-shadow: 0px 0px 30px #ffffff;
+    box-shadow: 0px 0px 30px #ffffff; 
+    padding: 0px;
+    border: 1px solid #000000;
+    width: 960px;
+    margin: 0px;
+margin-bottom: 10px;}
+#Produ_1{height: 80px;background-color:rgba(255, 255, 255, 0.5);-moz-box-shadow: 0px 0px 30px #ffffff;
+    -webkit-box-shadow: 0px 0px 30px #ffffff;
+    box-shadow: 0px 0px 30px #ffffff; 
+    padding: 0px;
+    border: 1px solid #000000;
+    width: 960px;
+    margin: 0px;}
+#Produ_1 ul {margin: 0px;padding: 0px;list-style-type: none; font-size: 30px;} 
+#Produ_1 ul li {display: inline;}
+#Produ_1 ul li a{display: inline-block; text-decoration: none;padding: 22px 80.5px; color:  red; font-weight: bold;}
+#Produ_1 ul li a:hover{background-color:#ff0000 ;color: #ffffff;}
+.R, .D, .I {color: #ff0000;}
+input{margin-bottom: 5px;}
+.R,.D,.I {background-color:rgba(255, 255, 255, 0.5); text-align: center; font-weight: bold;}
+.F1{width: 380px; display: block; float: left;margin-top: 20px;}
+.F2{width: 300px; display: block; float: left; margin-top: 20px;}
+.F3{width: 320px; display: block; float: left; margin-top: 20px;}
+#buto{margin-left: 10px; margin-bottom: 20px;}
+#Liscris{color: #ff0000 ;float: left; width: 50%; margin-left: 40px; margin-top: 20px;font-size: 20px;}
+#Lisherra{background-color:rgba(255, 255, 255, 0.5); color: #ff0000;width: 400px; float: left; margin-left: 40px; margin-top: 20px; font-size: 20px;}
+#LisArt{background-color:rgba(255, 255, 255, 0.5); color: #ff0000; width: 200px; float: left; margin-left: 40px; margin-top: 20px; font-size: 20px;}
+
+#float{background-image:url(Home.jpg); background-size: cover; height: 400px;}
+#flot{float: left; width: 60%; margin-left: 10%;}
+#mando{float: left; width:20%}
+
+#Contacto{background-image: url(Home.jpg);background-size:cover; height: 500px;}
+#Contacto_1{background-color:rgba(255, 255, 255, 0.4);height: 100px;width: 960px;clear: both; margin-bottom: 10px; -moz-box-shadow: 0px 0px 30px #ffffff;
+    -webkit-box-shadow: 0px 0px 30px #ffffff;
+    box-shadow: 0px 0px 30px #ffffff; 
+    padding: 0px;
+    border: 1px solid #000000;
+    width: 960px;}
+.Cont{Color: #ff0000; text-align: center; text-decoration: underline; font-size: 40px;padding: 20px; font-weight: bold;}
+#Contacto_2{background-color:rgba(255, 255, 255, 0.5);height: 390px; width: 475px;float: left;-moz-box-shadow: 0px 0px 30px #ffffff;
+    -webkit-box-shadow: 0px 0px 30px #ffffff;
+    box-shadow: 0px 0px 30px #ffffff; 
+    padding: 0px;
+    border: 1px solid #000000;
+    width: 475px;
+    margin: 0px;}
+h4{color: #ff0000;font-size: 25px;margin-left: 15px;}
+forum ul li {margin: 0px;padding: 0px; list-style-type: none; font-size: 25px;color:#ff0000;}
+#Contacto_3{background-color:rgba(255, 255, 255, 0.6); height: 390px;width: 475px;float: right;-moz-box-shadow: 0px 0px 30px #ffffff;
+    -webkit-box-shadow: 0px 0px 30px #ffffff;
+    box-shadow: 0px 0px 30px #ffffff; 
+    padding: 0px;
+    border: 1px solid #000000;
+    width: 475px;
+    margin: 0px;}
+    #ras{height: 70%; width: 80%; margin-left: 10%; margin-top: 5%;}
+    #textc{color: #ff0000; font-weight: bold; text-decoration: underline;}
+    #textc1{color: #ff0000; font-weight: bold; text-align: center;}
+footer{background-color:rgba(255, 255, 255, 0.7);height: 90px;}
+#logo_1{height: 90px;width: 320px;float: left;}
+#Informacion{height: 90px;width: 320px;float: left;}
+.info{margin-top: 10px; color: #ff0000;text-align: center;}
+#Informacion ul {margin: 0px;padding: 0px;list-style-type: none; font-size: 15px;} 
+#Informacion ul li {display: inline;}
+#Informacion ul li a{text-decoration: none;padding: 5px 125px; color: #ff0000; font-weight: bold;}
+#Informacion ul li a:hover{color: #000080;}
+#Redes{height: 90px;width: 320px;float: right; padding: 15px;}
+#Redes ul {list-style-type: none;}
+#Redes ul li a{text-decoration: none;margin-left: 225px;}
+
+@media all and (min-width: 600px) and (max-width: 1023px){
+header,section,footer{width: 580px;}
+#Logo{width: 80px;}
+#control{width: 440px;}
+#control ul li a{padding: 30px 5px;}
+#Principal1{width: 580px;}
+#Principal2{width: 580px;}
+#qs_1{width: 285px;float: left;-moz-box-shadow: 0px 0px 30px #ffffff;
+    -webkit-box-shadow: 0px 0px 30px #ffffff;
+    box-shadow: 0px 0px 30px #ffffff; 
+    padding: 0px;
+    border: 1px solid #000000;
+    width: 285px;
+    margin: 0px;}
+#qs_2{width: 285px;}
+.QS2{font-size: 20px;}
+#qs_3{width: 285px}
+.QS3{font-size: 20px;}
+.QS_2{font-size: 10px;margin-left: 20px;margin-right: 20px;}
+.QS_3{font-size: 12px;margin-left: 5px;margin-right: 5px;}
+#P_1{color: #ff0000; font-size: 40px; font-weight: bold; text-align: center; text-decoration: underline; background-color:rgba(255, 255, 255, 0.5);-moz-box-shadow: 0px 0px 30px #ffffff;
+    -webkit-box-shadow: 0px 0px 30px #ffffff;
+    box-shadow: 0px 0px 30px #ffffff; 
+    padding: 0px;
+    border: 1px solid #000000;
+    width: 580px;
+    margin: 0px;
+margin-bottom: 10px;}
+#Produ_1{margin-left: 0px; width: 580px;-moz-box-shadow: 0px 0px 30px #ffffff;
+    -webkit-box-shadow: 0px 0px 30px #ffffff;
+    box-shadow: 0px 0px 30px #ffffff; 
+    padding: 0px;
+    border: 1px solid #000000;
+    width: 580px;
+    margin: 0px;}
+#Produ_1 ul {font-size: 30px;} 
+#Produ_1 ul li a{padding: 22px 15px;}
+.F1{width: 80px;}
+.E{width: 450px;}
+.F2{width: 80px;}
+.F{width: 450px;}
+.F3{width: 80px;} 
+.M{width: 450px;}
+.F4{width: 80px;}
+.P{width: 450px;}
+#Contacto_1{width: 580px;}
+#Contacto_2{width: 285px;}
+h4{font-size: 20px}
+forum ul li {font-size: 15px;margin: 10px;}
+#Contacto_3{width: 285px;}
+#subcontacto_1{width: 150px; margin-left: 129px;}
+#subcontacto_2{width: 150px;margin-left: 129px;}
+#logo_1{width: 193px;}
+#Informacion{width: 193px;}
+#Informacion ul li a{padding: 5px 60px;}
+#Redes{height: 90px;width: 194px;float: right;}
+#Redes ul li a{margin-left: 100px;}
+}/* @media 768 a 1023px */
+
+@media all and (max-width: 599px){
+    header,section,footer{width: 90%; margin-right: auto; margin-left: auto;}
+    header{height: auto;position: relative;}
+    #Logo, #control, #qs_2, #qs_3,#Informacion, #Redes, #logo_1{height: auto;width: 100%; float:none;} 
+    #Logo, #logo_1{margin-left: 35%;}
+    #control ul li {display: block; font-size: 10px;}
+    #control ul li a{width: 100%; text-decoration: none;padding: 10px 0px;text-align: center;}
+    #Home, #Productos, #Contacto {height: 300px;}
+    #Principal1{height: 245px;width:100%;margin-bottom: 5px;}
+    #Principal2{height: 50px;width: 100%;}
+    .Enlace{font-size: 10px;}
+    #Empresa, footer {height: auto;}
+    #qs_1, #Subproducto_1, #Subproducto_2, #Subproducto_3, #Contacto_3{display: none}
+    .QS2{font-family: 'Inknut Antiqua', serif; margin-top:0px; padding: 40px;}
+    .QS_2{font-family: 'Inknut Antiqua', serif;}
+    #Productos{height: 300px;}
+    #P_1{display: none;}
+    #Produ_1{height: 300px; float: left; width: 45%;-moz-box-shadow: 0px 0px 10px #ffffff;
+        -webkit-box-shadow: 0px 0px 10px #ffffff;
+        box-shadow: 0px 0px 10px #ffffff; 
+        padding: 0px;
+        border: 1px solid #000000;
+        width: 40%;
+        margin: 0px;}
+#Produ_1 ul {margin: 0px;padding: 0px;list-style-type: none; font-size: 20px;} 
+#Produ_1 ul li {display: block}
+#Produ_1 ul li a{text-decoration: none;padding: 34.5px 34px; color:  red; font-weight: bold;}
+#Produ_1 ul li a:hover{background-color:#ff0000 ;color: #ffffff;}
+.F1, .F2, .F3, .F4{display: none;}
+#Liscris{background-color:rgba(255, 255, 255, 0.5); color: #ff0000 ;float: right; width: 55%; margin-left: 0px; margin-top: 0px;font-size: 15px;}
+#Lisherra{background-color:rgba(255, 255, 255, 0.5); color: #ff0000;width: 55%; float: right; margin-left: 0px; margin-top: 0px;font-size: 10px;}
+#LisArt{background-color:rgba(255, 255, 255, 0.5); color: #ff0000; width: 55%; float: right; margin-left: 0px; margin-top: 0px;font-size: 15px;}
+    #Contacto_1{display: none;}
+    .Cont{display: none;}
+    #Contacto_2{height: auto; width: 100%;float: none;}
+    h4{font-size: 30px;}
+    #logo_1{height: auto;width: 100%;float: none;margin-left: 35%;}
+    #Informacion ul li a{padding: 5px 190px;}
+    #Redes{padding: 5px;}
+    #Redes ul li a{margin-left: 40%;}
+
+}/*fin @media -599px */
+
